@@ -1,0 +1,43 @@
+[0.006s] Invoking command in '/home/sidibe/Drone/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Drone/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/sidibe/Drone/install/robot_description
+[0.081s] -- The C compiler identification is GNU 11.4.0
+[0.148s] -- The CXX compiler identification is GNU 11.4.0
+[0.153s] -- Detecting C compiler ABI info
+[0.202s] -- Detecting C compiler ABI info - done
+[0.207s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.207s] -- Detecting C compile features
+[0.208s] -- Detecting C compile features - done
+[0.210s] -- Detecting CXX compiler ABI info
+[0.265s] -- Detecting CXX compiler ABI info - done
+[0.269s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.269s] -- Detecting CXX compile features
+[0.269s] -- Detecting CXX compile features - done
+[0.271s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.373s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.438s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.486s] -- Configuring done
+[0.487s] -- Generating done
+[0.488s] -- Build files have been written to: /home/sidibe/Drone/build/robot_description
+[0.490s] Invoked command in '/home/sidibe/Drone/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sidibe/Drone/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/sidibe/Drone/install/robot_description
+[0.491s] Invoking command in '/home/sidibe/Drone/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Drone/build/robot_description -- -j16 -l16
+[0.519s] Invoked command in '/home/sidibe/Drone/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Drone/build/robot_description -- -j16 -l16
+[0.526s] Invoking command in '/home/sidibe/Drone/build/robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Drone/build/robot_description
+[0.532s] -- Install configuration: ""
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf/drone.urdf
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf/plugin.xacro
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/path.sh
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/path.dsv
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.bash
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.sh
+[0.532s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.zsh
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.dsv
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/package.dsv
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.533s] -- Installing: /home/sidibe/Drone/install/robot_description/share/robot_description/package.xml
+[0.534s] Invoked command in '/home/sidibe/Drone/build/robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Drone/build/robot_description

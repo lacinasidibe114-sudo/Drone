@@ -1,0 +1,29 @@
+[0.008s] Invoking command in '/home/sidibe/Drone/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Drone/build/robot_description -- -j16 -l16
+[0.041s] Invoked command in '/home/sidibe/Drone/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sidibe/Drone/build/robot_description -- -j16 -l16
+[0.049s] Invoking command in '/home/sidibe/Drone/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Drone/build/robot_description
+[0.053s] -- Install configuration: ""
+[0.054s] -- Execute custom install script
+[0.054s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf/drone.urdf.xacro
+[0.054s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf/plugin.xacro
+[0.054s] -- Symlinking: /home/sidibe/Drone/install/robot_description/share/robot_description/urdf/plugin_px4.xacro
+[0.061s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/launch/gazebo.launch.py
+[0.061s] -- Symlinking: /home/sidibe/Drone/install/robot_description/share/robot_description/launch/gazebo_harmonic.launch.py
+[0.067s] -- Symlinking: /home/sidibe/Drone/install/robot_description/share/robot_description/launch/gazebo_px4.launch.py
+[0.073s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/config/ros2_control.yaml
+[0.073s] -- Symlinking: /home/sidibe/Drone/install/robot_description/share/robot_description/config/ros2_control.yaml.bak
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/path.sh
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/environment/path.dsv
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.bash
+[0.080s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.sh
+[0.081s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.zsh
+[0.081s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/local_setup.dsv
+[0.081s] -- Symlinking: /home/sidibe/Drone/install/robot_description/share/robot_description/package.dsv
+[0.093s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.093s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.093s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.093s] -- Up-to-date symlink: /home/sidibe/Drone/install/robot_description/share/robot_description/package.xml
+[0.095s] Invoked command in '/home/sidibe/Drone/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sidibe/Drone/build/robot_description
