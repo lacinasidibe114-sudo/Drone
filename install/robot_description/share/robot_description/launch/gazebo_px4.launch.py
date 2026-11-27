@@ -1,1 +1,0 @@
-/home/sidibe/Drone/src/robot_description/launch/gazebo_px4.launch.py

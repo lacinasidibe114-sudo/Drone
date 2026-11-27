@@ -1,1 +1,0 @@
-/home/sidibe/Drone/src/robot_description/launch/gazebo_harmonic.launch.py

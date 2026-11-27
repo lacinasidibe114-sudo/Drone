@@ -1,0 +1,8 @@
+# Artefacts colcon (régénérés par colcon build)
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
