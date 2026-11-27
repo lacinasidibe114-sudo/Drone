@@ -1,0 +1,4 @@
+# Artefacts de compilation et journaux exclus des statistiques de langage GitHub
+**/build/** linguist-generated=true
+**/install/** linguist-generated=true
+**/log/** linguist-generated=true
